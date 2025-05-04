@@ -36,6 +36,5 @@ Repositório com exercícios e projetos desenvolvidos em linguagem C durante o c
 - GitHub: [https://github.com/HenriqueSoares-eng](https://github.com/HenriqueSoares-eng)  
 - LinkedIn: [https://www.linkedin.com/in/henrique-dantas-de-teixeira-soares-803a66357](https://www.linkedin.com/in/henrique-dantas-de-teixeira-soares-803a66357)
 
-HenriqueSoares-eng/HenriqueSoares-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 --->
