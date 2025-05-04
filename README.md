@@ -10,7 +10,7 @@ Participo de atividades voluntárias com o **Instituto Vivências**, atuando em 
 
 ## 🎓 Formação acadêmica
 
-- **Engenharia da Computação** – [Sua Universidade] (2025 – atualmente)
+- **Engenharia da Computação** – UniCeub (2025 – atualmente)
 - **Ensino Médio completo** – Colégio Ciman, Brasília/DF
 
 ## 💼 Experiência
@@ -37,5 +37,5 @@ Repositório com exercícios e projetos desenvolvidos em linguagem C durante o c
 - LinkedIn: [https://www.linkedin.com/in/henrique-dantas-de-teixeira-soares-803a66357](https://www.linkedin.com/in/henrique-dantas-de-teixeira-soares-803a66357)
 
 HenriqueSoares-eng/HenriqueSoares-eng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
