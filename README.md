@@ -29,7 +29,7 @@ Participo de atividades voluntárias com o **Instituto Vivências**, atuando em 
 
 ### 🔧 Códigos em C (projeto acadêmico)
 Repositório com exercícios e projetos desenvolvidos em linguagem C durante o curso de Engenharia da Computação.  
-🔗 [Ver repositório](https://github.com/HenriqueSoares-eng)
+🔗 [Ver repositório]([https://github.com/HenriqueSoares-eng/questoes-da-lista))
 
 ## 📫 Contato
 
