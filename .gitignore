@@ -1,0 +1,10 @@
+# Ignorar pastas de dependências
+node_modules/
+venv/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração sensíveis (ex: senhas, chaves)
+.env
+config.ini
