@@ -4,7 +4,7 @@ Este repositório é o meu portfólio profissional e acadêmico. Aqui você enco
 
 ## ✨ Sobre mim
 
-Sou estudante de **Engenharia da Computação**, atualmente no **primeiro semestre** da graduação. Tenho grande interesse por tecnologia, ciências exatas, história medieval e química.
+Sou estudante de **Engenharia da Computação**, atualmente no **segundo semestre** da graduação. Tenho grande interesse por tecnologia, ciências exatas, história medieval e química.
 
 Participo de atividades voluntárias com o **Instituto Vivências**, atuando em projetos beneficentes e sociais.
 
@@ -23,7 +23,7 @@ Participo de atividades voluntárias com o **Instituto Vivências**, atuando em 
 - 💡 Raciocínio lógico e forte base em ciências exatas  
 - 📐 Cálculo avançado e fundamentos de química  
 - 🏰 História medieval e memorização de datas  
-- 💻 Conhecimentos iniciais em programação em C  
+- 💻 Conhecimentos iniciais em programação em C e java 
 
 ## 📁 Projeto em destaque
 
